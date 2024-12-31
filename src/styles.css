@@ -3,15 +3,11 @@
 @tailwind components;
 @tailwind utilities;
 
-.bgfont {
+.bgssss {
     /* Image de fond */
-    background-image: url('bg25.jpg'); /* Remplacez par le lien de votre image */
+    background-image: url('bg26.jpg'); /* Remplacez par le lien de votre image */
     background-size: cover; /* Ajuste l'image pour couvrir toute la zone */
     background-position: center; /* Centrage de l'image */
     background-repeat: no-repeat; /* Empêche la répétition de l'image */
-    height: 100vh; /* Hauteur de l'écran */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
+ 
   }
