@@ -113,7 +113,7 @@ timeLine.to(bonneAnnee, {
 timeLine.from(mesVoeux , {
     onComplete : () => {
         mesVoeux.classList.remove('hidden')
-        mesVoeux.classList.add('flex')
+        
     }
 })
 timeLine.from(title , {

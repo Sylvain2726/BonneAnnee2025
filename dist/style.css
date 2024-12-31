@@ -752,4 +752,10 @@ video {
   /* Centrage de l'image */
   background-repeat: no-repeat;
   /* Empêche la répétition de l'image */
+  height: 100vh;
+  /* Hauteur de l'écran */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
 }
