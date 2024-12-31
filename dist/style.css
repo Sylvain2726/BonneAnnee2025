@@ -562,6 +562,10 @@ video {
   position: relative;
 }
 
+.inset-10 {
+  inset: 2.5rem;
+}
+
 .left-0 {
   left: 0px;
 }
@@ -614,6 +618,14 @@ video {
   right: 3.5rem;
 }
 
+.bottom-36 {
+  bottom: 9rem;
+}
+
+.right-36 {
+  right: 9rem;
+}
+
 .z-0 {
   z-index: 0;
 }
@@ -660,6 +672,18 @@ video {
   height: 6rem;
 }
 
+.h-1 {
+  height: 0.25rem;
+}
+
+.h-16 {
+  height: 4rem;
+}
+
+.h-8 {
+  height: 2rem;
+}
+
 .w-full {
   width: 100%;
 }
@@ -674,6 +698,14 @@ video {
 
 .w-24 {
   width: 6rem;
+}
+
+.w-16 {
+  width: 4rem;
+}
+
+.w-8 {
+  width: 2rem;
 }
 
 @keyframes spin {
@@ -723,6 +755,10 @@ video {
 
 .rounded-xl {
   border-radius: 0.75rem;
+}
+
+.rounded-full {
+  border-radius: 9999px;
 }
 
 .border-b-4 {
